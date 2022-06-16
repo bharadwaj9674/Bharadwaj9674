@@ -1,9 +1,5 @@
 ### Hi, I'm Bharadwaj 👋
 
-<!--
-**Bharadwaj9674/Bharadwaj9674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning python, data structures and algorithms, dart.
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - bharadwaj.9674
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: nothing😉
--->
+
