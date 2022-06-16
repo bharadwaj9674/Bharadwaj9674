@@ -10,3 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: nothing😉
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharadwaj9674&theme=radical)
