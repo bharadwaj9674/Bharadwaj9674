@@ -11,3 +11,5 @@
 - ⚡ Fun fact: nothing😉
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharadwaj9674&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj9674&theme=tokyonight)
