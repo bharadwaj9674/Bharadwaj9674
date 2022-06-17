@@ -14,8 +14,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj9674&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwaj9674&show_icons=true&theme=tokyonight)
-
 [![Github](https://img.shields.io/github/followers/bharadwaj9674?label=Follow&style=social)](https://github.com/bharadwaj9674)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=bharadwaj9674.bharadwaj.9674)
