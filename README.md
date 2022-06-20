@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with flutter.
 - 💬 Ask me about flutter or any tech related stuff.
-- 📫 How to reach me: Instagram - bharadwaj.9674
+- 📫 How to reach me: Instagram -- bharadwaj.9674
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: nothing😉
 
