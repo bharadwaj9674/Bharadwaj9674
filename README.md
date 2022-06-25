@@ -8,7 +8,7 @@
 - 💬 Ask me about flutter or any tech related stuff.
 - 📫 How to reach me: Instagram -- bharadwaj.9674
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: nothing😉
+- ⚡ Fun fact: Nothing😉
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwaj9674&show_icons=true&theme=radical)
